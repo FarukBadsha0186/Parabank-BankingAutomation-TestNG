@@ -1,0 +1,1 @@
+{"uuid":"4f370fd9-6ea0-4b3e-b1c8-b78dcbcd94a3","name":"Full Flow Suite","children":["98123e6e-a743-487f-8f20-b80bea49a2bb"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1749408384092,"stop":1749408392840}],"afters":[],"start":1749408384049,"stop":1749408435699}

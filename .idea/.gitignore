@@ -1,0 +1,18 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignore Gradle build files
+.gradle/
+build/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Allure result and report folders
+allure-results/
+allure-report/
+
+# Logs and system files
+*.log
+.DS_Store
